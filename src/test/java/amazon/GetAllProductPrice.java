@@ -26,6 +26,8 @@ public class GetAllProductPrice {
 			String price = ele.getText();
 			System.out.println(price);
 		}
+					System.out.println(price);
+
 	}
 
 }
